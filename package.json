@@ -1,0 +1,15 @@
+{
+  "name": "dnex",
+  "version": "1",
+  "description": "s",
+  "main": "ss",
+  "repository": "ss",
+  "author": "as",
+  "license": "ss",
+  "private": null,
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "chart.js": "^2.9.3",
+    "jquery": "^3.5.1"
+  }
+}
